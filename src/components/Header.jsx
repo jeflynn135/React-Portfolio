@@ -1,4 +1,4 @@
-import sunsetPic from '../assets/header/header.jpg';
+import sunsetPic from '../assets/header/header(2).jpg';
 
 function Header({children}) {
 

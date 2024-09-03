@@ -7,7 +7,7 @@ function Footer() {
       },
       {
         name: "fa-brands fa-linkedin",
-        link: "www.linkedin.com/in/jenna-flynn-282181319"
+        link: "https://www.linkedin.com/in/jenna-flynn-282181319"
       },
       {
         name: "fa-regular fa-envelope",
