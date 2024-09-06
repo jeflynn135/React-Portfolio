@@ -1,10 +1,12 @@
+import aboutPic from '../assets/about/image1.jpeg';
+
 function aboutMe() {
     return (
       <section className="main">
         <div>
           <div className="about">
           <img
-            src="https://www.eou.edu/registrar/files/2022/05/Brooke-2022.jpg"
+            src={aboutPic}
             className="About-Me-Image"
             alt="recent picture or avatar"
           />

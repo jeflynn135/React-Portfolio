@@ -3,7 +3,7 @@ function Resume() {
       <section className="resume">
         <div>
         <p>
-          Check out my <a href="https://drive.google.com/file/d/1ZZVRm2IpSEm4RI789ly6A2wwOkEvH9E5/view?usp=sharing">resume</a>
+          Check out my <a href="https://drive.google.com/file/d/1EhHz5CcU8GMCK2r9gPxj24tIOYsRt4IS/view?usp=sharing">resume</a>
           </p>
           <h3>Proficiencies</h3>
           <ul className="list">

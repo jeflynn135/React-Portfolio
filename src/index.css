@@ -22,7 +22,7 @@ main {
 }
 .About-Me-Image {
 margin-left: 45%;
-height: 150px;
+height: 200px;
 }
 .my-description {
   text-align: center;
@@ -67,12 +67,18 @@ height: 150px;
     width: 930px;
   }
   .nav {
-    width: 800px;
+    width: 850px;
   }
   .bottom {
     height: 70px;
-    width: 900px;
+    width: 930px;
     font-size: 50px;
     margin-bottom: 0;
+  }
+  .About-Me-Image {
+    margin-left: 75%;
+      }
+  .my-description {
+    width: 870px;
   }
 }
